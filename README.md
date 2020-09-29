@@ -16,4 +16,4 @@ npm run build
 ```
 
 ### Consumo de API
-[API de consumo](https://cli.vuejs.org/config/).
+[API de consumo](https://jsonplaceholder.typicode.com/posts).
