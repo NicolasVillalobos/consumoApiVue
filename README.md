@@ -1,19 +1,19 @@
-# miproyecto
+# Ejemplo de consumo de API
 
-## Project setup
+## Instalar npm
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compila y crea un servidor local
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compila el proyecto para llevarlo a producción
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Consumo de API
+[API de consumo](https://cli.vuejs.org/config/).
